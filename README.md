@@ -12,3 +12,16 @@ Basically, the idea is that everyone pools together ideas for projects they've h
 
 # The Project Ideas
 
+## lspy
+
+Description
+: A proxy for LSP servers so you can see what the heck they're doing
+
+Originator
+: @hoelzro
+
+Language(s)
+: Anything, but doing it via `bpftrace` would be _cool_.
+
+Interested folk:
+: @hoelzro
