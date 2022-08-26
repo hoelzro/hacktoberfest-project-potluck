@@ -14,16 +14,18 @@ Basically, the idea is that everyone pools together ideas for projects they've h
 
 ## lspy
 
-<dl>
-<dt>Description</dt>
-<dd>A proxy for LSP servers so you can see what the heck they're doing</dd>
+### Description
 
-<dt>Originator</dt>
-<dd>@hoelzro</dd>
+A proxy for LSP servers so you can see what the heck they're doing
 
-<dt>Language(s)</dt>
-<dd>Anything, but doing it via `bpftrace` would be _cool_.</dd>
+### Originator
 
-<dt>Interested folk:</dt>
-<dd>@hoelzro</dd>
-</dl>
+@hoelzro
+
+### Language(s)
+
+Anything, but doing it via `bpftrace` would be _cool_.
+
+### Interested folk:
+
+@hoelzro
